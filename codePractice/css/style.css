@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+
+}
+
+@media only screen and (max-width:600px)
+body {
+
+    background-color: blue;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font-family: helvetica;
+}
+
+p {
+    color: #9c9c9c;
+    text-align: center;
+    font-family: helvetica;
+
+}
